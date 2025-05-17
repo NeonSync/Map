@@ -21,7 +21,7 @@ and **strategic locations** across India — particularly near the India-Pakista
 
 ---
 
-### 🛠️ Built With
+### 🛠️ Built With HTML
 
 * [Leaflet.js](https://leafletjs.com/) – JavaScript library for interactive maps
 * [OpenStreetMap](https://www.openstreetmap.org/) – Free map tile source
